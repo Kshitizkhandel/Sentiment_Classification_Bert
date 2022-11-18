@@ -1,2 +1,5 @@
 # Sentiment_Classification_Bert
-Fine Tuned Bert for Sentiment Classification
+Objective:
+Objective is to fine tune bert for sentiment classification 
+Description:
+The project classifies the sentiment of the review into negative, nuetral, positive
